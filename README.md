@@ -42,6 +42,8 @@ ui/detail/     (detail screen, viewmodel)
 util/          (result/state wrappers)
 ```
 ## Screen
+
+<img src="https://github.com/ysyogendra22/Movies/blob/main/Screenshot_20251029_121019.png" width="100">
 ![Test Image 1](https://github.com/ysyogendra22/Movies/blob/main/Screenshot_20251029_121019.png)
 ![Test Image 2](https://github.com/ysyogendra22/Movies/blob/main/Screenshot_20251029_121041.png)
 
