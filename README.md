@@ -41,10 +41,10 @@ ui/movies/     (list screen, viewmodel)
 ui/detail/     (detail screen, viewmodel)
 util/          (result/state wrappers)
 ```
-## Screen
+## Screens
 
-<img src="https://github.com/ysyogendra22/Movies/blob/main/Screenshot_20251029_121019.png" width="200">
-<img src="https://github.com/ysyogendra22/Movies/blob/main/Screenshot_20251029_121041.png" width="200">
+<img src="https://github.com/ysyogendra22/Movies/blob/main/Screenshot_20251029_121019.png" width="200"> <img src="https://github.com/ysyogendra22/Movies/blob/main/Screenshot_20251029_121041.png" width="200">
+
 
 
 
