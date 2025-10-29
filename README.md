@@ -41,6 +41,10 @@ ui/movies/     (list screen, viewmodel)
 ui/detail/     (detail screen, viewmodel)
 util/          (result/state wrappers)
 ```
+## Screen
+[<img src="">](https://github.com/ysyogendra22/Movies/blob/main/Screenshot_20251029_121019.png)
+[<img src="">](https://github.com/ysyogendra22/Movies/blob/main/Screenshot_20251029_121041.png)
+
 
 ## Setup & Run
 
